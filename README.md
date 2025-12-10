@@ -1,2 +1,3 @@
 # ds_final-creating
-This is description
+Aby uruchomić notatnik należy wykonać poniższe kroki:
+1. fsfdsfsdfsdf
