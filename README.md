@@ -11,6 +11,6 @@ Aby uruchomić notatnik należy wykonać poniższe kroki:
    
    $ python -m venv venv
    
-5. Kolejnym krokiem jest
+5. Kolejnym krokiem jest uaktywnienie środowiska wirtualnego, które może różnić się w zależności od systemu operacyjnego zainstalowanego na maszynie. Rozwiązania dla każdego systemu operacyjnego można znaleźć pod linkiem: https://docs.python.org/3/library/venv.html#how-venvs-work
 6. fdsfdsf
 7. dsfsdf 
