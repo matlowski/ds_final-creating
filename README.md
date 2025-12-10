@@ -1,6 +1,6 @@
 # ds_final-creating
 Aby uruchomić notatnik należy wykonać poniższe kroki:
-1. Zainstalować na swojej maszynie lokalnej najnowszą wersję pythona. Można to zrobić wchodząć na oficjalną stronę: https://www.python.org/ .
+1. Zainstalować na swojej maszynie lokalnej najnowszą wersję pythona. Można to zrobić pobierając go z oficjalnej strony: https://www.python.org/ .
 2. Następnym krokiem jest utowrzenie nowego folderu oraz wejście do niego: 
 
    $ mkdir new_folder 
