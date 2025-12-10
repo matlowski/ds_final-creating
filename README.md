@@ -12,5 +12,10 @@ Aby uruchomić notatnik należy wykonać poniższe kroki:
    $ python -m venv venv
    
 5. Kolejnym krokiem jest uaktywnienie środowiska wirtualnego, które może różnić się w zależności od systemu operacyjnego zainstalowanego na maszynie. Rozwiązania dla każdego systemu operacyjnego można znaleźć pod linkiem: https://docs.python.org/3/library/venv.html#how-venvs-work
-6. fdsfdsf
-7. dsfsdf 
+6. Następnie należy zainstalować wszystkie pakiety zdefiniowane w pliku requirements.txt:
+
+   $ pip install -r requirements.txt
+
+7. Teraz należy uruchomić notatnik poleceniem:
+
+   $ jupyter notebook
